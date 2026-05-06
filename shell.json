@@ -1,4 +1,9 @@
 {
+    "background": {
+        "desktopClock": {
+            "enabled": true
+        }
+    },
     "bar": {
         "activeWindow": {
             "compact": false,
@@ -94,6 +99,9 @@
         "dragThreshold": 50,
         "enabled": true,
         "mediaUpdateInterval": 500,
+        "performance": {
+            "showGpu": true
+        },
         "showDashboard": true,
         "showMedia": true,
         "showOnHover": true,
