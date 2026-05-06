@@ -344,6 +344,6 @@
     },
     "paths": {
         "lyricsDir": "~/Música/Letras",
-        "wallpaperDir": "~/Imágenes/Wallpapers"
+        "wallpaperDir": "~/.config/caelestia/Wallpapers"
     }
 }
